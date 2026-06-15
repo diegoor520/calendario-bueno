@@ -13,6 +13,8 @@
     "lucide-react": "latest"
   },
   "devDependencies": {
-    "typescript": "latest"
-  }
+    "typescript": "latest",
+  "@types/react": "latest",
+  "@types/react-dom": "latest"
+}
 }
