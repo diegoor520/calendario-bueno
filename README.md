@@ -33,7 +33,7 @@ http://127.0.0.1:5173
 - El panel lateral muestra progreso, pendientes, pospuestas, estado objetivo e indicador de riesgo.
 - Todo se guarda automáticamente en localStorage.
 
-## Comprobación de producción
+## Comprobación de producción Actualización de despliegue.
 
 ```bash
 npm run build
